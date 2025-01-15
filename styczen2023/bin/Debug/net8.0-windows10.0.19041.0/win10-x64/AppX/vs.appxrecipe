@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.styczen2023</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>585E720C2F54C471EA3A6781750D4ABF3AE2BABAB34A586367B2EF2BC4137964</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.styczen2023_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.styczen2023_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,268 +27,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-01-15T17:45:16.865</Modified>
+      <Modified>2025-01-15T18:01:49.161</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-01-15T17:17:31.869</Modified>
+      <Modified>2025-01-15T18:01:49.006</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\styczen2023.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\styczen2023.runtimeconfig.json">
       <PackagePath>styczen2023.runtimeconfig.json</PackagePath>
-      <Modified>2025-01-15T11:55:57.864</Modified>
+      <Modified>2025-01-15T18:01:48.824</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\styczen2023.dll">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\styczen2023.dll">
       <PackagePath>styczen2023.dll</PackagePath>
-      <Modified>2025-01-15T17:45:16.604</Modified>
+      <Modified>2025-01-15T18:01:47.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>styczen2023.exe</PackagePath>
-      <Modified>2025-01-15T17:45:16.617</Modified>
+      <Modified>2025-01-15T18:01:47.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2025-01-15T11:46:55.274</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2025-01-15T11:47:23.710</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2025-01-15T11:47:23.722</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2025-01-15T11:47:23.738</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2025-01-15T11:47:23.761</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-01-15T11:47:23.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2025-01-15T11:46:55.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2025-01-15T11:46:55.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2025-01-15T11:47:23.914</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2025-01-15T11:47:24.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2025-01-15T11:47:24.253</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2025-01-15T11:47:24.268</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2025-01-15T11:47:24.294</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2025-01-15T11:47:24.393</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2025-01-15T11:47:23.995</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2025-01-15T11:47:23.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2025-01-15T11:47:24.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2025-01-15T11:47:24.002</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2025-01-15T11:47:24.006</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2025-01-15T11:47:23.973</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2025-01-15T11:47:23.976</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2025-01-15T11:47:23.992</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2025-01-15T11:47:23.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2025-01-15T11:47:23.983</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2025-01-15T11:47:23.927</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2025-01-15T11:47:23.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2025-01-15T11:47:23.935</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2025-01-15T11:47:23.939</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2025-01-15T11:47:23.946</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2025-01-15T11:47:23.950</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2025-01-15T11:47:23.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2025-01-15T11:47:23.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2025-01-15T11:47:23.956</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2025-01-15T11:47:23.960</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2025-01-15T11:47:24.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2025-01-15T11:47:24.080</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2025-01-15T11:47:24.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2025-01-15T11:47:24.101</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2025-01-15T11:47:24.126</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2025-01-15T11:47:24.042</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2025-01-15T11:47:24.046</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2025-01-15T11:47:24.050</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2025-01-15T11:47:24.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2025-01-15T11:47:24.067</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2025-01-15T11:47:24.019</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2025-01-15T11:47:24.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2025-01-15T11:47:24.027</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2025-01-15T11:47:24.031</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2025-01-15T11:47:24.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2025-01-15T11:47:24.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2025-01-15T11:47:24.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2025-01-15T11:47:24.154</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2025-01-15T11:47:24.173</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2025-01-15T11:47:24.222</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2025-01-15T11:47:23.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2025-01-15T11:47:23.925</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2025-01-15T11:47:23.936</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2025-01-15T11:47:23.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2025-01-15T11:47:24.009</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\styczen2023.deps.json">
+    <AppxPackagedFile Include="C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\styczen2023.deps.json">
       <PackagePath>styczen2023.deps.json</PackagePath>
-      <Modified>2025-01-15T11:55:57.747</Modified>
+      <Modified>2025-01-15T18:01:48.712</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

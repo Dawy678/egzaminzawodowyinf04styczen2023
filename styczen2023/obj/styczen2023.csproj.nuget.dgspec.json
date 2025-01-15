@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\styczen2023\\styczen2023\\styczen2023.csproj": {}
+    "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\egzaminzawodowyinf04styczen2023\\styczen2023\\styczen2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\styczen2023\\styczen2023\\styczen2023.csproj": {
+    "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\egzaminzawodowyinf04styczen2023\\styczen2023\\styczen2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\styczen2023\\styczen2023\\styczen2023.csproj",
+        "projectUniqueName": "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\egzaminzawodowyinf04styczen2023\\styczen2023\\styczen2023.csproj",
         "projectName": "styczen2023",
-        "projectPath": "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\styczen2023\\styczen2023\\styczen2023.csproj",
+        "projectPath": "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\egzaminzawodowyinf04styczen2023\\styczen2023\\styczen2023.csproj",
         "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\styczen2023\\styczen2023\\obj\\",
+        "outputPath": "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\egzaminzawodowyinf04styczen2023\\styczen2023\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

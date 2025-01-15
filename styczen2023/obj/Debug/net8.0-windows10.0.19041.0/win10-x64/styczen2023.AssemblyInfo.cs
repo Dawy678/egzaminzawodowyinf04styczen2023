@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("styczen2023")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+263696ebe6469f04c6cee254126530c3d3b2a1ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("styczen2023")]
 [assembly: System.Reflection.AssemblyTitleAttribute("styczen2023")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

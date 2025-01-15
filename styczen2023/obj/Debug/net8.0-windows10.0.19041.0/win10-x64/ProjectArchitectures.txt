@@ -1,1 +1,1 @@
-C:\Users\Dawid\Desktop\Coding\STUDYING\styczen2023\styczen2023\styczen2023.csproj;x64
+C:\Users\Dawid\Desktop\Coding\STUDYING\egzaminzawodowyinf04styczen2023\styczen2023\styczen2023.csproj;x64

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KaNSLPOkp3spHWgH3E53iYygG56NUK/KiO7Iyi9b89IvKqkBc0pJaEWnLVb5DTEW8eur9B5Mzj/uYvzuMoPl9A==",
+  "dgSpecHash": "LTQf4xZa7fODyg7yX5qEV98H1ArX9Py6OlH+eTuFc4yib+ktINAMGy9dlEbAHREMjgs4FEs7kcPeYYXWPmwBmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\styczen2023\\styczen2023\\styczen2023.csproj",
+  "projectFilePath": "C:\\Users\\Dawid\\Desktop\\Coding\\STUDYING\\egzaminzawodowyinf04styczen2023\\styczen2023\\styczen2023.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dawid\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Dawid\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
