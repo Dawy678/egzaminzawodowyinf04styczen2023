@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="styczen2023.MainPage">
+
+    <ScrollView BackgroundColor="LightSteelBlue">
+        <VerticalStackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Border Stroke="White"
+                    Margin="50"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    StrokeThickness="3"
+                    StrokeShape="RoundRectangle, 5">
+                    <VerticalStackLayout>
+                        <Label TextColor="Black" Margin="10, 20" Text="Dane pracownika"/>
+                        <VerticalStackLayout Padding="20, 50">
+                            <Grid RowDefinitions="*, *, *" ColumnDefinitions="0.7*, 1.3*">
+                                <Label VerticalOptions="Center" TextColor="Black" Grid.Row="0" Grid.Column="0" Text="Imię"/>
+                                <Entry TextColor="Black" BackgroundColor="White" Grid.Row="0" Grid.Column="1" x:Name="imieentry" VerticalTextAlignment="Center"/>
+                                <Label VerticalOptions="Center" TextColor="Black" Grid.Row="1" Grid.Column="0" Text="Nazwisko"/>
+                                <Entry TextColor="Black" BackgroundColor="White" Grid.Row="1" Grid.Column="1" x:Name="nazwiskoentry" VerticalTextAlignment="Center"/>
+                                <Label VerticalOptions="Center" TextColor="Black" Grid.Row="2" Grid.Column="0" Text="Stanowisko"/>
+                                <Picker 
+                                    BackgroundColor="White"
+                                    TextColor="Black"
+                                    Grid.Row="2" Grid.Column="1"
+                                    x:Name="picker"
+                                    Title=""
+                                    SelectedIndexChanged="OnEventIndexChanged"
+                                    ItemsSource="{Binding Wybor}">
+                                </Picker>
+                            </Grid>
+                        </VerticalStackLayout>
+                            
+                    </VerticalStackLayout>
+                </Border>
+                <Border Stroke="White"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Margin="50"
+                    StrokeThickness="3"
+                    StrokeShape="RoundRectangle, 5">
+                    <VerticalStackLayout
+                    Margin="50">
+                        <Grid RowDefinitions="*" ColumnDefinitions="0.7*, 1.3*">
+                            <Label TextColor="Black" Grid.Row="0" Grid.Column="0" Text="Ile znaków?" VerticalTextAlignment="Center"/>
+                            <Entry TextColor="Black" BackgroundColor="White" Grid.Row="0" Grid.Column="1" x:Name="znakientry" VerticalTextAlignment="Center"/>
+                        </Grid>
+                        <HorizontalStackLayout VerticalOptions="Center">
+                            <CheckBox x:Name="maleiwielkieliteryCheckbox" IsChecked="True"/>
+                            <Label TextColor="Black" VerticalTextAlignment="Center" Text="Małe i wielkie litery"/>
+                        </HorizontalStackLayout>
+                        <HorizontalStackLayout VerticalOptions="Center">
+                            <CheckBox x:Name="cyfryCheckbox"/>
+                            <Label TextColor="Black" VerticalTextAlignment="Center" Text="Cyfry"/>
+                        </HorizontalStackLayout>
+                        <HorizontalStackLayout VerticalOptions="Center">
+                                <CheckBox x:Name="znakispecjalneCheckbox"/>
+                            <Label TextColor="Black" VerticalTextAlignment="Center" Text="Znaki specjalne"/>
+                        </HorizontalStackLayout>
+                        <Grid RowDefinitions="*" ColumnDefinitions="*, *, *">
+                            <Button TextColor="White" Text="Generuj hasło"
+                                Grid.Column="1"
+                                HorizontalOptions="FillAndExpand"
+                                Clicked="Generujhaslo"    
+                                 BackgroundColor="SteelBlue"/>
+                        </Grid>
+                    </VerticalStackLayout>
+                </Border>
+            </Grid>
+            <Grid RowDefinitions="*" ColumnDefinitions="*, *, *">
+                <Button
+                    Clicked="Zatwierdzprzycisk"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    TextColor="White"
+                    Text="Zatwierdź"
+                    BackgroundColor="SteelBlue"
+                    Padding="20, 10"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Center"/>
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
